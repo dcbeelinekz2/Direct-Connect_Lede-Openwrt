@@ -1,2 +1,2 @@
-# Direct-Connect_Lede-Openwrt
-RAFA
+# DC++ LEDE/OPENWRT
+DC++ Теперь в роутере.
